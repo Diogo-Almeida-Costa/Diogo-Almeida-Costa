@@ -3,7 +3,7 @@
 📚 I'm in the last year of IFRN's Computer Technician Course
 💻 I have experience with languages like C++, Java, HTML, CSS, JavaScript and SQL
 🌱 Currently learning Python and Django
-📫 How to reach me: biancavianacosta@outlook.com
+📫 How to reach me: j.diogoalmeidac@gmail.com
 
 <!---
 Diogo-Almeida-Costa/Diogo-Almeida-Costa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
